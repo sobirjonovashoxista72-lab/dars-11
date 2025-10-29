@@ -1,0 +1,154 @@
+body {
+    background-color: #2f3542;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #ffa502;
+    margin-top: 20px;
+}
+
+.table-container {
+    border: 2px solid #1e90ff;
+    border-radius: 10px;
+    width: 70%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #2f3542;
+}
+
+h2 {
+    text-align: left;
+    color: #f1c40f;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #1e3799;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    background-color: #57606f;
+    padding: 10px;
+    text-align: center;
+}
+
+tr:nth-child(even) td {
+    background-color: #565757;
+}
+
+table, th, td {
+    border: 1px solid #4b4a4a;
+}
+
+
+body {
+    background-color: #2f3542;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #ffa502;
+    margin-top: 20px;
+}
+
+/* Jadval dizayni */
+.table-container {
+    border: 2px solid #1e90ff;
+    border-radius: 10px;
+    width: 70%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #2f3542;
+}
+
+h2 {
+    text-align: left;
+    color: #f1c40f;
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #1e3799;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    background-color: #57606f;
+    padding: 10px;
+    text-align: center;
+}
+
+tr:nth-child(even) td {
+    background-color: #747d8c;
+}
+
+table, th, td {
+    border: 1px solid #404144;
+}
+
+/* Forma dizayni */
+.form-container {
+    border: 2px solid #0c3762;
+    border-radius: 10px;
+    width: 70%;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #697ca7;
+    text-align: left;
+}
+
+.form-container label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+    color: #f5ff41;
+}
+
+.form-container input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: #1e3799;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.form-container input::placeholder {
+    color: #dcdde1;
+}
+
+.form-container button {
+    width: 100%;
+    padding: 12px;
+    background-color: #e84118;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.form-container button:hover {
+    background-color: #941313;
+}
+
